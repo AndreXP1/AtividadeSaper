@@ -1,0 +1,132 @@
+body{
+    background-color: #121212;
+}
+
+.col {
+    background-color: #212121;
+    width: 150px;
+    height: 800px;
+}
+
+
+.col2{
+
+    height: 100px;
+    background-color: #535353;
+}
+
+
+.left, .play, .right{
+    color: white;
+    font-size: 45px;
+    display: flex;
+    justify-content:center;
+}
+
+
+.progress{
+    background-color: #535353;
+    display: flex;
+    justify-content: center;
+    height: 5px;
+    margin-top: 10px;
+}
+
+
+.progress-bar{
+    background-color: white;
+}
+
+.progress-bar1{
+    background-color: #1db954;
+}
+
+.progress-bar2{
+    background-color: #1db954;
+}
+
+
+.container2 {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.container2 img {
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    outline: auto;
+}
+
+p{
+    margin-left: 10px;
+    color: white;
+}
+
+
+.container3 {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.container3 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+
+}
+
+
+h3{
+    color: white;
+    margin-top: 50px;
+    width: 100%;
+}
+
+
+h1{
+    color: #1db954;
+    margin-top: 10px;
+}
+
+
+.Spotify{
+    color:#1db954;
+}
+
+
+.play1 {
+    color:#1db954;
+    font-size: 45px;
+    display: flex;
+    justify-content: left;
+}
+
+.download{
+    color: white;
+    display: flex;
+    justify-content: left;
+    margin-left: 5px;
+}
+
+
+.container4{
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+}
+
+
+.container4 img{
+    float: left;
+}
+
+
+#musica{
+    margin-top: 30px;
+}
